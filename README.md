@@ -11,3 +11,8 @@ This project is developed as part of the Software Engineering lab. It follows a 
 Fatema Abdden Nedhi
 23-54451-3
 origin/feature-nedhi-branch
+
+This project is developed as part of the Software Engineering lab. It follows a proper git and github workflow with feature branches.
+Sakib Monir Hossen
+24-58473-2
+origin/feature-sakib-branch
